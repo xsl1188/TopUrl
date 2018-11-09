@@ -8,7 +8,6 @@
 #include <unordered_map>
 #include <queue>
 #include <map>
-#include "hashutil.h"
 #define N 100000   //一次读取url数目，可手动修改
 #define K 100      //topk设置为too100
 #define QLEN 1    //设置缓冲队列数目，目前数目为1，设置成pipeline设计
